@@ -685,4 +685,33 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC12I2tLnA6gIxZk50BL1QUQDElk3x0WdSolGCS4wWN
 
 Ubuntu 18.04.6 LTS ubuntu-bionic ttyS0
 
-ubuntu-bionic login: 
+ubuntu-bionic login: [394795.334670] INFO: task systemd-udevd:4465 blocked for more than 120 seconds.
+[394795.337435]       Not tainted 4.15.0-159-generic #167-Ubuntu
+[394795.338298] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[394795.339404] INFO: task kworker/u4:2:5585 blocked for more than 120 seconds.
+[394795.340319]       Not tainted 4.15.0-159-generic #167-Ubuntu
+[394795.341079] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[394795.342128] INFO: task kworker/u4:0:5613 blocked for more than 120 seconds.
+[394795.343078]       Not tainted 4.15.0-159-generic #167-Ubuntu
+[394795.343841] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[394916.108621] INFO: task systemd-udevd:4465 blocked for more than 120 seconds.
+[394916.110548]       Not tainted 4.15.0-159-generic #167-Ubuntu
+[394916.113164] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[394916.114280] INFO: task kworker/u4:2:5585 blocked for more than 120 seconds.
+[394916.115200]       Not tainted 4.15.0-159-generic #167-Ubuntu
+[394916.116030] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[394916.117104] INFO: task kworker/u4:0:5613 blocked for more than 120 seconds.
+[394916.118380]       Not tainted 4.15.0-159-generic #167-Ubuntu
+[394916.119234] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[394916.120412] INFO: task systemd-network:5698 blocked for more than 120 seconds.
+[394916.121597]       Not tainted 4.15.0-159-generic #167-Ubuntu
+[394916.122418] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[395036.879412] INFO: task systemd-udevd:4465 blocked for more than 120 seconds.
+[395036.881504]       Not tainted 4.15.0-159-generic #167-Ubuntu
+[395036.882788] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[395036.884239] INFO: task kworker/u4:2:5585 blocked for more than 120 seconds.
+[395036.885362]       Not tainted 4.15.0-159-generic #167-Ubuntu
+[395036.886243] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
+[395036.887415] INFO: task kworker/u4:0:5613 blocked for more than 120 seconds.
+[395036.888394]       Not tainted 4.15.0-159-generic #167-Ubuntu
+[395036.889218] "echo 0 > /proc/sys/kernel/hung_task_timeout_secs" disables this message.
